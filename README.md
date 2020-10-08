@@ -6,7 +6,7 @@ A system that assists doctors and patients get effective  analysis and deeper in
 
 ## Architecture
 
-![DFD](/Diagrams/Architecture.PNGg)
+![Architecture](/Diagrams/Architecture.PNG)
 
 ## Data Flow Diagram 
 
