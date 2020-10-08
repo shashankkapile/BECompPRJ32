@@ -4,15 +4,18 @@ A system that assists doctors and patients get effective  analysis and deeper in
 
 # The project is patented under Intellectual Property, Government of India in year 2020.
 
+## Architecture
 
-## Data Flow Diagram Diagram
+![DFD](/Diagrams/Architecture.PNGg)
+
+## Data Flow Diagram 
 
 ![DFD](/Diagrams/DFD.jpeg)
 
-## State Transition Diagram
+## State Transition 
 
 ![StateTransition](/Diagrams/StateTransition.jpeg)
 
-## UseCase Diagram
+## UseCase
 
 ![UseCase](/Diagrams/UseCase.jpeg)
