@@ -19,3 +19,8 @@ A system that assists doctors and patients get effective  analysis and deeper in
 ## UseCase
 
 ![UseCase](/Diagrams/UseCase.jpeg)
+
+### For Doctors and Healthcare professionals
+* provide accurate data for the effective diagnosis of spinal cord related problems
+* To assess the condition of a patient suffering from spinal cord problems.
+* To get some predictions regarding condition of  spinal cord
