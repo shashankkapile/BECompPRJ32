@@ -18,8 +18,3 @@ Neuro Spine Medical Data Analytics is a system that uses Machine Learning algori
 ## UseCase
 
 ![UseCase](/Diagrams/UseCase.jpeg)
-
-### For Doctors and Healthcare professionals
-* provide accurate data for the effective diagnosis of spinal cord related problems
-* To assess the condition of a patient suffering from spinal cord problems.
-* To get some predictions regarding condition of  spinal cord
